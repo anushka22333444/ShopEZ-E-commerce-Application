@@ -1,1 +1,1 @@
-THIS IS THE COMPLETE E COMMERECE PLATFORM ON WHICH I AM WORKING THAT YOU CAN USE FOR ORDERING THE GROCERIES TROUGH GREATSTACK.
+This is a fully developed e-commerce platform we are working on, designed for ordering groceries conveniently through GreatStack."
